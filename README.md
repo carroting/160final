@@ -1,4 +1,3 @@
-160final
 ## TEN DAYS OF NOTHING
 
 This short game uses sprites and images from MapleStory, an MMORPG developed by Wizet.
