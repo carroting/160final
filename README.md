@@ -1,6 +1,8 @@
 160final
 ## TEN DAYS OF NOTHING
 
+This short game uses sprites and images from MapleStory, an MMORPG developed by Wizet.
+
 **HOW TO RUN GAME FILES:**
 1. Download all files
 2. Run main.py on IDLE or any other compatible platform
